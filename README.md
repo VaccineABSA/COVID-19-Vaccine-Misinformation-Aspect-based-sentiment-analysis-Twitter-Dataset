@@ -9,8 +9,7 @@
 •	COVID-19 vaccines authorized for use shed or release their components 
 •	The vaccine contains magnetic materials like metals that make the vaccinated area electromagnetic 
 •	The vaccine Contains HIV, Ebola, or Botulism  
-•	The vaccine is full of toxic 
-ingredients                     | •	The vaccine can lead to the development of the coronavirus infection
+•	The vaccine is full of toxic ingredients                     | •	The vaccine can lead to the development of the coronavirus infection
                                   •	The vaccine can cause variants of the virus 
                                   •	The vaccine causes adverse health conditions such as heart attacks
                                   •	The vaccine causes adverse allergic reactions
