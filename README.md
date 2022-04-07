@@ -3,14 +3,13 @@
 |-------------------------------|---------------------------|
 | •	The ingredients of the vaccine are similar to those in many foods – fats, sugars, and salts | •	The vaccine can lead to the development of the coronavirus infection 
 •	The vaccine includes preservatives, tissues (like aborted fetal cells, antibiotics, food proteins, medicines, latex, or metals |  •	The vaccine can cause variants of the virus 
-•	The mRNA vaccine is not considered a vaccine
+•	The mRNA vaccine is not considered a vaccine | •	The vaccine causes adverse health conditions such as heart attacks
 •	The mRNA vaccine is gene therapy 
 •	This vaccine is gene therapy, not an actual vaccine
 •	COVID-19 vaccines authorized for use shed or release their components 
 •	The vaccine contains magnetic materials like metals that make the vaccinated area electromagnetic 
 •	The vaccine Contains HIV, Ebola, or Botulism  
-•	The vaccine is full of toxic ingredients                     |  •	The vaccine can cause variants of the virus 
-                                  •	The vaccine causes adverse health conditions such as heart attacks
+•	The vaccine is full of toxic ingredients                     |  •	The vaccine causes adverse health conditions such as heart attacks
                                   •	The vaccine causes adverse allergic reactions
                                   •	The vaccine’s adverse even can lead to death
                                   •	The vaccine can lead to fainting or passing out
