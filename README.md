@@ -1,4 +1,9 @@
 # CoVaxMisinfoABSA
+
+A dataset containing 3824 COVID-19 vaccine misinformation aspect annotated tweets. The misinformation labeled tweets, obtained from [15], were annotated for misinformation aspects. The annotation is based on reliable medical resources; Centers for Disease Control and Prevention (CDC) [16], [17].
+
+
+
 | **Aspect #1 Vaccine Constituent** | **Aspect #2 Adverse Effects** |
 |-------------------------------|---------------------------|
 | •	The ingredients of the vaccine are similar to those in many foods – fats, sugars, and salts | •	The vaccine can lead to the development of the coronavirus infection 
