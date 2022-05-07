@@ -1,8 +1,11 @@
 # CoVaxMisinfoABSA
 
-A dataset containing 3824 COVID-19 vaccine misinformation aspect annotated tweets. The misinformation labeled tweets, obtained from [15], were annotated for misinformation aspects. The annotation is based on reliable medical resources; Centers for Disease Control and Prevention (CDC) [16], [17].
+A dataset containing 3824 COVID-19 vaccine misinformation aspect annotated tweets from Dec 31, 2020, to Jul 08, 2021. The misinformation labeled tweets, obtained from [15], were annotated for misinformation aspects.  
+
+![image](https://user-images.githubusercontent.com/102157487/167255420-c7f6c352-d325-424d-86eb-bffdb1a252d3.png)
 
 
+The annotation is based on reliable medical resources; Centers for Disease Control and Prevention (CDC) [16], [17].
 
 | **Aspect #1 Vaccine Constituent** | **Aspect #2 Adverse Effects** |
 |-------------------------------|---------------------------|
@@ -35,3 +38,10 @@ A dataset containing 3824 COVID-19 vaccine misinformation aspect annotated tweet
 |------------------------------------------------------------| •	The vaccine cannot stop or reduce the spread
 |------------------------------------------------------------| •	The vaccine is not effective with new variants at all
 |------------------------------------------------------------| Human immunity can prevent COVID-19 better than the vaccine
+
+CoVaxMisinfoAspectAnnotatedDataset.csv contains the IDs of the Tweets and vaccine misinformation aspect annotation. Microsoft Excel changes the format of the Tweet ID to a number, and this causes the IDs to be altered; hence, the hydration will fail or return only a few tweets. Therefore, if you will be using Excel, follow these steps to properly load your CSV data.  
+
+![image](https://user-images.githubusercontent.com/102157487/167255486-7e40181a-2c95-4065-bdd9-689c38007925.png)
+
+![image](https://user-images.githubusercontent.com/102157487/167255494-236676e4-2f38-42e7-8fcc-e4a2f23939cb.png)
+
