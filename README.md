@@ -1,4 +1,4 @@
-# CoVaxMisinfoABSA
+# CoVax-Aspects
 
 A dataset containing 3824 COVID-19 vaccine misinformation aspect annotated tweets from Dec 31, 2020, to Jul 08, 2021. The misinformation labeled tweets, obtained from [15], were annotated for misinformation aspects.  
 
