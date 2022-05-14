@@ -1,11 +1,11 @@
 # CoVax-Aspects
 
 ## Dataset Description
-A dataset containing 3824 COVID-19 vaccine misinformation aspect annotated Engish tweets from Dec 31, 2020, to Jul 08, 2021. The misinformation labeled tweets, obtained from [15], were annotated for misinformation aspects.  
+A dataset containing 3824 COVID-19 vaccine misinformation aspect annotated Engish tweets from Dec 31, 2020, to Jul 08, 2021. The misinformation labeled tweets, obtained from [1], were annotated for misinformation aspects.  
 ![VaccineDiagramBERT-Page-1 drawio (1)](https://user-images.githubusercontent.com/102157487/168446338-33e2775f-8f90-4b12-8713-d76793c4542f.png)
 
 
-The annotation is based on reliable medical resources; Centers for Disease Control and Prevention (CDC) [16], [17].
+The annotation is based on reliable medical resources; Centers for Disease Control and Prevention (CDC) [2].
 
 | **Aspect #1 Vaccine Constituent** | **Aspect #2 Adverse Effects** |
 |-------------------------------|---------------------------|
@@ -45,11 +45,13 @@ CoVaxMisinfoAspectAnnotatedDataset.csv contains the IDs of the Tweets and vaccin
 
 ![image](https://user-images.githubusercontent.com/102157487/167255494-236676e4-2f38-42e7-8fcc-e4a2f23939cb.png)
 
-To retrieve the text of the tweets and the other attributes including the location and time of the tweet, the dataset needs to be hydrated. 
-The link to the hydrator:  https://github.com/DocNow/hydrator 
+To retrieve the text of the tweets and the other attributes including the location and time of the tweet, the dataset needs to be hydrated [3].  
 Add the dataset containing the tweet IDs only. 
 ![Hydrator](https://user-images.githubusercontent.com/102157487/168446306-e4108ebd-8549-4ee4-89bc-c44fc39c268a.png)
 
 This process will produce a CSV file containing all data attributes. Follow the previous steps for importing the CSV data if you are using Microsoft Excel.  
 
-
+## References
+[1] https://github.com/SakibShahriar95/ANTiVax
+[2] https://www.cdc.gov/coronavirus/2019-ncov/vaccines/facts.html
+[3]  https://github.com/DocNow/hydrator 
