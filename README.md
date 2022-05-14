@@ -37,6 +37,7 @@ The annotation is based on reliable medical resources; Centers for Disease Contr
 |                                                            | •	The vaccine is not effective with new variants at all
 |                                                            | Human immunity can prevent COVID-19 better than the vaccine
 
+# CSV Dataset Hydration
 CoVaxMisinfoAspectAnnotatedDataset.csv contains the IDs of the Tweets and vaccine misinformation aspect annotation. Microsoft Excel changes the format of the Tweet ID to a number, and this causes the IDs to be altered; hence, the hydration will fail or return only a few tweets. Therefore, if you will be using Excel, follow these steps to properly load your CSV data.  
 
 ![image](https://user-images.githubusercontent.com/102157487/167255486-7e40181a-2c95-4065-bdd9-689c38007925.png)
