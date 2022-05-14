@@ -46,6 +46,8 @@ CoVaxMisinfoAspectAnnotatedDataset.csv contains the IDs of the Tweets and vaccin
 ![image](https://user-images.githubusercontent.com/102157487/167255494-236676e4-2f38-42e7-8fcc-e4a2f23939cb.png)
 
 To retrieve the text of the tweets and the other attributes including the location and time of the tweet, the dataset needs to be hydrated [3]. Add the dataset containing the tweet IDs only. 
+
+
 ![Hydrator](https://user-images.githubusercontent.com/102157487/168446306-e4108ebd-8549-4ee4-89bc-c44fc39c268a.png)
 
 This process will produce a CSV file containing all data attributes. Follow the previous steps for importing the CSV data if you are using Microsoft Excel.  
