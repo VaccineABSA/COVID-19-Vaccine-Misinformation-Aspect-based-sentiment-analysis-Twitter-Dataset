@@ -1,8 +1,7 @@
 # CoVax-Aspects
 
 A dataset containing 3824 COVID-19 vaccine misinformation aspect annotated tweets from Dec 31, 2020, to Jul 08, 2021. The misinformation labeled tweets, obtained from [15], were annotated for misinformation aspects.  
-
-![image](https://user-images.githubusercontent.com/102157487/167255420-c7f6c352-d325-424d-86eb-bffdb1a252d3.png)
+![VaccineDiagramBERT-Page-1 drawio (1)](https://user-images.githubusercontent.com/102157487/168446338-33e2775f-8f90-4b12-8713-d76793c4542f.png)
 
 
 The annotation is based on reliable medical resources; Centers for Disease Control and Prevention (CDC) [16], [17].
@@ -50,4 +49,5 @@ Add the dataset containing the tweet IDs only.
 ![Hydrator](https://user-images.githubusercontent.com/102157487/168446306-e4108ebd-8549-4ee4-89bc-c44fc39c268a.png)
 
 This process will produce a CSV file containing all data attributes. Follow the previous steps for importing the CSV data if you are using Microsoft Excel.  
+
 
