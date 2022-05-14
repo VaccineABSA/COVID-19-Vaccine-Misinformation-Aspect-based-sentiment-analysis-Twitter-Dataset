@@ -21,7 +21,7 @@ The annotation is based on reliable medical resources; Centers for Disease Contr
 |                               | •	The vaccine can cause fertility problems in both genders 
 |                               | •	People trying to get pregnant should not take the vaccine 
 |                               | •	Pregnant females should not take the vaccine
-|                               | •	Breastfeeding mothers   
+|                               | •	Breastfeeding mothers should not take the vaccine 
 |                               |                           |
 |                               |                           |
 | **Aspect #3 Agenda** | **Aspect #4 Efficacy and Clinical Trials** |
@@ -46,5 +46,8 @@ CoVaxMisinfoAspectAnnotatedDataset.csv contains the IDs of the Tweets and vaccin
 
 To retrieve the text of the tweets and the other attributes including the location and time of the tweet, the dataset needs to be hydrated. 
 The link to the hydrator:  https://github.com/DocNow/hydrator 
+Add the dataset containing the tweet IDs only. 
+![Hydrator](https://user-images.githubusercontent.com/102157487/168446306-e4108ebd-8549-4ee4-89bc-c44fc39c268a.png)
 
-Add the dataset containing the tweet IDs only. This process will produce a CSV file containing all data attributes. Follow the previous steps for importing the CSV data if you are using Microsoft Excel.  
+This process will produce a CSV file containing all data attributes. Follow the previous steps for importing the CSV data if you are using Microsoft Excel.  
+
