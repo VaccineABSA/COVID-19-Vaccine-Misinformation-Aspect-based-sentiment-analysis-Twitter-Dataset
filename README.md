@@ -2,7 +2,7 @@
 
 ## Dataset Description
 A dataset containing 3824 COVID-19 vaccine misinformation aspect annotated Engish tweets from Dec 31, 2020, to Jul 08, 2021. The misinformation labeled tweets, obtained from [1], were annotated for misinformation aspects.  
-![VaccineDiagramBERT-Page-1 drawio (1)](https://user-images.githubusercontent.com/102157487/168446338-33e2775f-8f90-4b12-8713-d76793c4542f.png)
+![VaccineDiagramBERT-Page-1 drawio (3)](https://user-images.githubusercontent.com/102157487/170836191-2ae2e561-f080-4bf9-bb24-b3a1c404e9d7.png)
 
 
 The annotation is based on reliable medical resources; Centers for Disease Control and Prevention (CDC) [2].
@@ -58,3 +58,4 @@ This process will produce a CSV file containing all data attributes. Follow the 
 [2] https://www.cdc.gov/coronavirus/2019-ncov/vaccines/facts.html
 
 [3]  https://github.com/DocNow/hydrator 
+
